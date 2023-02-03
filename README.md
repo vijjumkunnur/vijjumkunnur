@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **basic programming languages**
+- 🌱 I’m currently learning **some programming languages lik C,JAVA,PYTHON,HTML,CSS**
 
 - 👯 I’m looking to collaborate on **in GitHub**
 
